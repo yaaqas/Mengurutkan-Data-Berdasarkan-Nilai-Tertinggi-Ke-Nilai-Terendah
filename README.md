@@ -6,6 +6,12 @@
 ```
 ✍️ Created By : Yazid Aqil Assalam
 ```
+
+<h1>Tujuan</h1>
+<div align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Memudahkan dalam mengurutkan nilai tertinggi ke terendah baik ketika ada pengeditan data, penambahan data, penghapusan data atau tidak tanpa menginput datanya secara manual.
+</div>
+
 ---
 <h1><b>Connect with Me</b></h1>
 <p align="center">
